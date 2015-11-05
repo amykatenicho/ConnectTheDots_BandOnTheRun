@@ -1,0 +1,49 @@
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\App.xbf
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\MainPage.xbf
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\SettingsFlyout .xbf
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\ConnectTheDotsWPBand.xr.xml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\ConnectTheDotsWPBand.exe
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\ConnectTheDotsWPBand.pdb
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\resources.pri
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\AppxManifest.xml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\ConnectTheDotsWPBand.build.appxrecipe
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\Microsoft.Band.dll
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\Microsoft.Band.Phone.dll
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\Microsoft.Band.Store.dll
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\Microsoft.Band.Phone.pri
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\bin\Debug\Microsoft.Band.Store.pri
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\App.g.i.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\App.g.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\MainPage.g.i.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\MainPage.g.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\SettingsFlyout .g.i.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\SettingsFlyout .g.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\App.xaml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\MainPage.xaml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\SettingsFlyout .xaml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\App.xbf
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\MainPage.xbf
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\SettingsFlyout .xbf
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\XamlSaveStateFile.xml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\ConnectTheDotsWPBand.exe
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\ConnectTheDotsWPBand.pdb
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\Microsoft.Band\en\Microsoft.Band.BandResources.resw
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\ConnectTheDotsWPBand.csproj.GenerateResource.Cache
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\Microsoft.Band.pri
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\Microsoft.Band\qualifiers.txt
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\priconfig.xml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\priconfig.xml.intermediate
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\layout.resfiles
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\layout.resfiles.intermediate
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\resources.resfiles
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\resources.resfiles.intermediate
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\pri.resfiles
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\pri.resfiles.intermediate
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\qualifiers.txt
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\qualifiers.txt.intermediate
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\Microsoft.Band.Phone.pri.xml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\Microsoft.Band.Store.pri.xml
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\ProjectArchitectures.txt
+C:\Users\amynic\Documents\connectthedots-master\Devices\DirectlyConnectedDevices\WindowsPhoneAndBand\ConnectTheDotsWPBand\obj\Debug\ConnectTheDotsWPBand.csprojResolveAssemblyReference.cache

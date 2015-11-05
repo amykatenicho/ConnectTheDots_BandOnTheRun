@@ -1,0 +1,7 @@
+service bus namespace: eventhubholexample-ns
+event hub name: banddemo
+policy name: manage
+Access Key: Ndhp6A4QaeTJnvuzR7AfiXrwFhWiwE98gjrpQMAbIYI=
+Display name: Amy
+Organisation: Microsoft
+Location: UK
