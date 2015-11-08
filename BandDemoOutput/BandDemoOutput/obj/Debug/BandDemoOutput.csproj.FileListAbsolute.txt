@@ -1,0 +1,12 @@
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\bin\Debug\BandDemoOutput.exe.config
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\bin\Debug\BandDemoOutput.exe
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\bin\Debug\BandDemoOutput.pdb
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\obj\Debug\BandDemoOutput.csprojResolveAssemblyReference.cache
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\obj\Debug\BandDemoOutput.exe
+c:\users\amynic\documents\visual studio 2015\Projects\BandDemoOutput\BandDemoOutput\obj\Debug\BandDemoOutput.pdb
+C:\Users\amynic\Documents\GitHub\ConnectTheDots_BandOnTheRun\BandDemoOutput\BandDemoOutput\bin\Debug\BandDemoOutput.exe.config
+C:\Users\amynic\Documents\GitHub\ConnectTheDots_BandOnTheRun\BandDemoOutput\BandDemoOutput\obj\Debug\BandDemoOutput.exe
+C:\Users\amynic\Documents\GitHub\ConnectTheDots_BandOnTheRun\BandDemoOutput\BandDemoOutput\obj\Debug\BandDemoOutput.pdb
